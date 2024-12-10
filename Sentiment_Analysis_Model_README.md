@@ -1,4 +1,4 @@
-# <span style="color:red">Toxic Player Detection Using Sentiment Analysis and Random Forest Model</span>
+# <span style="color:red">DS 5220 Toxic Player Detection Using Sentiment Analysis and Random Forest Model</span>
 
 This project demonstrates the implementation of a machine learning model for detecting toxic players in multiplayer games based on their chat logs. The model uses sentiment analysis (via VADER) and a Random Forest Classifier to identify whether a player is an offender or not based on their chat behavior. The dataset required for this project is expected to be uploaded by the user.
 
